@@ -1,0 +1,65 @@
+かく - pisać
+いそぐ - spieszyć się
+だす - wyjmować
+まつ - czekać
+しぬ - umierać
+いう - mówić
+とぶ - latać
+よむ - czytać
+わかる - rozumieć
+とる - wziąć
+みる - oglądać
+おちる - spadać
+たべる - jeść
+でる - wychodzić
+あう - spotykać
+きく - słuchać
+さがす - szukać
+かえる - zmieniać
+よぶ - wołać
+すう - palić, wsysać
+のむ - pić
+ぬぐ - zdejmować
+もつ - trzymać
+はなす - opowiadać
+する - robić
+くる - przychodzić
+べんきょうする - uczyć się
+そうじする - sprzątać
+さんぽする - spacerować
+てつだう - pomagać
+ねる - spać
+いく - iść, jechać
+あるく - iść pieszo
+はいる - wchodzić
+はしる - biec
+いれる - wkładać
+かえる - wracać
+げつようび - poniedziałek
+かようび - wtorek
+すいようび - środa
+もくようび - czwartek
+きんようび - piątek
+どようび - sobota
+にちようび - niedziela
+いま - teraz
+いつも - zawsze (nigdy)
+よく - często
+ときどき - czasami
+きょう - dziś
+あした - jutro
+あさって - pojutrze
+あさ - rano
+ひる - w południe
+よる - wieczór
+こんしゅう - w tym tygodniu
+らいしゅう - w przyszłym tygodniu
+ことし - w tym roku
+らいねん - w przyszłym roku
+まいにち - codziennie
+まいあさ - codziennie rano
+まいばん - codziennie wieczorem
+まいしゅう - w każdym tygodniu
+まいつき - w każdym miesiącu
+まいとし - co roku
+まいかい - za każdym razem

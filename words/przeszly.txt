@@ -1,0 +1,10 @@
+けさ - dzisiaj rano
+おととい - przedwczoraj
+こんげつ - w tym miesiącu
+せんげつ - w zeszłym miesiącu
+らいげつ - w przyszłym miesiący
+きょねん - w zeszłym roku
+らいねん - w przyszłym roku
+ごぜん - przed południem
+ごご - po południu
+ねんまえ - lat temu

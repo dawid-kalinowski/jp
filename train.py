@@ -2,7 +2,7 @@ import random
 
 # Load words from file
 words = {}
-with open("words.txt", "r") as file:
+with open("words/verbs.txt", "r", encoding="utf-8") as file:
     for line in file:
         polish, japanese = line.strip().split(" - ")
         words[polish] = japanese
@@ -25,8 +25,7 @@ while japanese_words:
 
     # Get user input
     print(f"({word_number}/{total_count})", end=" ")
-    user_translation = input(japanese_word + ": ")
-
+    user_translation = input(japanese_word + ": ").encode("utf-8").decode("utf-8")
 
     # Check if the user's input matches the correct translation
     if user_translation.strip() == correct_translation:
@@ -38,5 +37,5 @@ while japanese_words:
     # Remove the word from the list
     japanese_words.remove(japanese_word)
 
-print("You have completed the quiz.")
-print("Accuracy:", (correct_count / total_count) * 100, "%")
+print("Ukończyłeś test.", end=" ")
+print("Dokładność:", (correct_count / total_count) * 100, "%")
