@@ -2,7 +2,7 @@ import random
 
 # Load words from file
 words = {}
-with open("words/verbs.txt", "r", encoding="utf-8") as file:
+with open("words/przyslowki.txt", "r", encoding="utf-8") as file:
     for line in file:
         polish, japanese = line.strip().split(" - ")
         words[polish] = japanese
