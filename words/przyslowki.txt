@@ -1,8 +1,8 @@
 tokidoki - czasami
 zutto - ciągle
 yoku - często
-hajime-ni - na początku
-tama-ni - rzadko
+hajimeni - na początku
+tamani - rzadko
 itsumo - zawsze
 sorosoro - niebawem
 mou - już
@@ -10,9 +10,9 @@ yukkuri - wolno, powoli
 dandan - stopniowo
 yoku - dobrze
 hajimete - po raz pierwszy
-pera-pera - płynnie (mówić)
-hontou-ni - naprawdę
-issho-ni - razem z
+perapera - płynnie (mówić)
+hontouni - naprawdę
+isshoni - razem z
 mochiron - oczywiście
 chotto - troszkę
 subete - całkowicie
@@ -28,7 +28,7 @@ hayaku - szybko
 osoku - późno
 yasuku - tanio
 tanoshiku - radośnie
-shinsetsu-ni - serdecznie
-kirei-ni - pięknie, czysto
-shizuka-ni - cicho, spokojnie
-jouzu-ni - dobrze, wprawnie
+shinsetsuni - serdecznie
+kireini - pięknie, czysto
+shizukani - cicho, spokojnie
+jouzuni - dobrze, wprawnie
